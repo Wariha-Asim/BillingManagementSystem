@@ -1,0 +1,5 @@
+chips,100
+juice,50
+cake,50
+biscuit,70
+bottle,200
